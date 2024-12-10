@@ -1,8 +1,6 @@
 #### 💫 About Me:
 
-🇬🇧 Hello! My name is Natascha and I am a junior full stack developer. </br>
-🇩🇪 Hallo! Mein Name ist Natascha und ich bin Junior Full Stack Entwicklerin. </br>
-🇧🇷 Olá! Meu nome é Natascha e sou desenvolvedora júnior full stack. 
+👩🏻‍💻 Hello! My name is Natascha and I'm a Junior Full Stack Developer. Ich spreche Deutsch 🇩🇪 ! E também Português 🇧🇷!</br>
 
 #### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/natascha-schlegel) 
